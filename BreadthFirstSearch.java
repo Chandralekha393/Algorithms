@@ -58,6 +58,10 @@ public class BreadthFirstSearch {
 		{
 			System.out.println("There is no path from "+ source + " to " + destination );
 		}
+		else
+		{
+			System.out.println("There is path from "+ source + " to " + destination );
+		}
 	}
 	
 }
