@@ -1,7 +1,7 @@
 # Algorithms
-BreadthFirstSearch.java class is Iterative Breadth first search algorithm <br>
-DepthFirstSearch.java class is Recursive depth first search algorithm <br>
-Graph.java contains graph data structure using adjacency list  <br>
+BreadthFirstSearch.java class contains implementation of Iterative Breadth first search algorithm <br>
+DepthFirstSearch.java class contains implementation of Recursive depth first search algorithm <br>
+Graph.java contains graph data structure implemented using adjacency list  <br>
 
 #References: <br>
 https://www.coursera.org/learn/algorithms-part2/ <br>
